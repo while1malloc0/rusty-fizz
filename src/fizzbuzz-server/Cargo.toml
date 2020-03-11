@@ -6,4 +6,6 @@ edition = "2018"
 
 [dependencies]
 rocket = "0.4.4"
+lazy_static = "1.4.0"
 fizzbuzz = { path = "../fizzbuzz" }
+metrics = { path = "../metrics" }

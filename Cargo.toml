@@ -1,2 +1,2 @@
 [workspace]
-members = ["src/fizzbuzz-server", "src/fizzbuzz"]
+members = ["src/fizzbuzz-server", "src/fizzbuzz", "src/metrics"]
